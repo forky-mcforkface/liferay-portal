@@ -23,7 +23,7 @@
 		"@ckeditor/ckeditor5-editor-multi-root": "46.0.3",
 		"@ckeditor/ckeditor5-email": "46.0.3",
 		"@ckeditor/ckeditor5-emoji": "46.0.3",
-		"@ckeditor/ckeditor5-engine": "46.0.3",
+		"@ckeditor/ckeditor5-engine": "47.7.4",
 		"@ckeditor/ckeditor5-enter": "46.0.3",
 		"@ckeditor/ckeditor5-essentials": "46.0.3",
 		"@ckeditor/ckeditor5-export-inline-styles": "46.0.3",
